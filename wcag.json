@@ -121,7 +121,7 @@
                             "num": "1.3.3",
                             "handle": "Sensory Characteristics",
                             "level": "(Level A)",
-                            "content": "  <p>Instructions provided for understanding and operating content do not rely solely on       sensory characteristics of components such as shape, color, size, visual location, orientation,       or sound.    </p>   <div class=\"note\" id=\"issue-container-generatedID\" role=\"note\"><div aria-level=\"5\" class=\"note-title marker\" id=\"h-note\" role=\"heading\"><span>Note</span></div><p class=\"\">For requirements related to color, refer to <a href=\"#distinguishable\">Guideline 1.4</a>.</p></div>  "
+                                        "content": "  <p>Instructions provided for understanding and operating content do not rely solely on       sensory characteristics of components such as shape, color, size, visual location, orientation,       or sound.    </p>   <div class=\"note\" id=\"issue-container-generatedID\" role=\"note\"><div aria-level=\"5\" class=\"note-title marker\" id=\"h-note\" role=\"heading\"><span>Note</span></div><p class=\"\">For requirements related to color, refer to <a href=\"#distinguishable\">Guideline 1.4</a>.</p></div>  "
                         },
                         {
                             "id": "orientation",
